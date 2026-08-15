@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-sj6pel.pulaucuan.net/sitemap.xml
